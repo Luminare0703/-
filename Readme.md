@@ -3,7 +3,7 @@
 ## 1주차 과제 (2020.06.04)
 
 ## 2주차 과제 (2020.06.13)
-https://nbviewer.jupyter.org/github/Luminare0703/-/blob/master/2%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1_%E1%84%80%E1%85%AA%E1%84%8C%E1%85%A6%282020_06_13%29.ipynb
+(https://nbviewer.jupyter.org/github/Luminare0703/-/blob/master/2%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1_%E1%84%80%E1%85%AA%E1%84%8C%E1%85%A6%282020_06_13%29.ipynb)
 
 ## 3주차 과제 (2020.06.15)
 
